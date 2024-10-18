@@ -10,3 +10,4 @@ This project uses a Local LLM model from Ollama. With this, it allows the user t
 This is useful for simple calculations, explanations etc instead of scouring google for a vague answer
 If you need any help with the project, you could visit Ollama's documentation, as well as emailing me at rishaudr14@gmail.com
 
+
